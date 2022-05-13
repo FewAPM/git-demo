@@ -4,3 +4,7 @@ second line
 text
 text
 -----------------------
+
+second version
+
+-----------------------
